@@ -6,33 +6,33 @@
   "start_url": "/compwhile.io/index.html",
   "icons": [
     {
-      "src": "/compwhile.io/android-icon-36x36.png",
-      "sizes": "36x36",
-      "type": "image/png"
-    },
-    {
-      "src": "/compwhile.io/android-icon-48x48.png",
+      "src": "/compwhile.io/mdpi/ic_launcher_APP.png",
       "sizes": "48x48",
       "type": "image/png"
     },
     {
-      "src": "/compwhile.io/android-icon-72x72.png",
+      "src": "/compwhile.io/hdpi/ic_launcher_APP.png",
       "sizes": "72x72",
       "type": "image/png"
     },
     {
-      "src": "/compwhile.io/android-icon-96x96.png",
+      "src": "/compwhile.io/xhdpi/ic_launcher_APP.png",
       "sizes": "96x96",
       "type": "image/png"
     },
     {
-      "src": "/compwhile.io/android-icon-144x144.png",
+      "src": "/compwhile.io/xxhdpi/ic_launcher_APP.png",
       "sizes": "144x144",
       "type": "image/png"
     },
     {
-      "src": "/compwhile.io/android-icon-192x192.png",
+      "src": "/compwhile.io/xxxhdpi/ic_launcher_APP.png",
       "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/compwhile.io/play/ic_launcher_APP.png",
+      "sizes": "512x512",
       "type": "image/png"
     }
   ]
