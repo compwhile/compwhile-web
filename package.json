@@ -1,7 +1,7 @@
 {
   "name": "compwhile",
   "version": "0.1.0",
-  "homepage": "https://compwhile.github.io",
+  "homepage": "https://compwhile.github.io/compwhile.io",
   "license": "MIT",
   "devDependencies": {
     "gh-pages": "^0.12.0",
