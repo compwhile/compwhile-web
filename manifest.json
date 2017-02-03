@@ -1,7 +1,7 @@
 {
   "short_name": "compwhile",
   "name": "compwhile",
-  "display": "browser",
+  "display": "fullscreen",
   "orientation": "portrait",
   "start_url": "/compwhile.io/index.html",
   "icons": [
