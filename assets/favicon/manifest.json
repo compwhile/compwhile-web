@@ -3,6 +3,7 @@
   "name": "compwhile",
   "display": "standalone",
   "orientation": "portrait",
+  "start_url": "/index.html",
   "icons": [
     {
       "src": "\/android-icon-36x36.png",
