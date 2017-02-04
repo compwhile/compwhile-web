@@ -1,0 +1,22 @@
+.naviagion-navbar-top {
+  background: #263238;
+}
+
+.naviagion-navbar-top a {
+  color: #fff;
+}
+
+.naviagion-navbar-top a:hover {
+  background: #263238;
+}
+
+.navigation-brand-logo {
+  margin-top: -8px;
+}
+
+.navigation-top-links {
+  margin-top: 2px;
+  font-size: 1.3em;
+  color: #fff;
+  font-family: 'Comfortaa', cursive;
+}

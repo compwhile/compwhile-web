@@ -1,23 +1,24 @@
-import React, { Component } from 'react';
-import Button from './button';
-import logopng from './logo.png';
-import './App.css';
+import React from 'react';
+import Hero from './components/hero';
+import Marketing from './components/marketing';
+import Navigation from './components/navigation';
+import Footer from './components/footer';
+import { Grid, Row, Col } from 'react-bootstrap';
+import injectTapEventPlugin from 'react-tap-event-plugin';
 
-class App extends Component {
-  render() {
-    return (
-      <div className="App">
-        <Button />
-        <div className="App-header">
-          <img src={logopng} className="App-logo" alt="logo" />
-          <h2>Welcome to compwhile</h2>
-          <p className="App-intro">
-            compwhile is an open source project to enhance and level up your study of programming languages in Computability Theory course.
-          </p>
-        </div>
-      </div>
-    );
-  }
-}
+injectTapEventPlugin();
+
+const App = () => (
+  <div>
+    <Navigation />
+    <Hero />
+    <Grid>
+      <Row>
+        <Col><Marketing /></Col>
+      </Row>
+    </Grid>
+    <Footer />
+  </div>
+);
 
 export default App;

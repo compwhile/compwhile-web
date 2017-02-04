@@ -1,0 +1,56 @@
+<svg width="2939px" height="572px" viewBox="-481 1044 2939 572" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <ellipse id="path-1" cx="390" cy="378.5" rx="65" ry="63.5"></ellipse>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="130" height="127" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <ellipse id="path-3" cx="169" cy="377.5" rx="65" ry="63.5"></ellipse>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="130" height="127" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+        <ellipse id="path-5" cx="79" cy="186.5" rx="65" ry="63.5"></ellipse>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="130" height="127" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+        <ellipse id="path-7" cx="376" cy="312.5" rx="65" ry="63.5"></ellipse>
+        <mask id="mask-8" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="130" height="127" fill="white">
+            <use xlink:href="#path-7"></use>
+        </mask>
+        <ellipse id="path-9" cx="155" cy="311.5" rx="65" ry="63.5"></ellipse>
+        <mask id="mask-10" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="130" height="127" fill="white">
+            <use xlink:href="#path-9"></use>
+        </mask>
+        <ellipse id="path-11" cx="65" cy="120.5" rx="65" ry="63.5"></ellipse>
+        <mask id="mask-12" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="130" height="127" fill="white">
+            <use xlink:href="#path-11"></use>
+        </mask>
+    </defs>
+    <g id="logo-v3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-481.000000, 1044.000000)">
+        <g id="Icon" transform="translate(0.000000, 100.000000)">
+            <rect id="Rectangle" fill="#009688" x="0" y="0" width="470" height="470" rx="47"></rect>
+            <polygon id="Combined-Shape" fill="#FFFFFF" points="264.646808 66 394 328.890864 359.834074 340.297649 342.585808 303.29001 217.902187 366 197.516095 337.110229 326.618887 270.992258 249.937756 113.789822 128.837987 175.338443 108 145.478588"></polygon>
+            <use id="Oval" stroke="#009688" mask="url(#mask-2)" stroke-width="30" fill="#FFFFFF" xlink:href="#path-1"></use>
+            <use id="Oval" stroke="#009688" mask="url(#mask-4)" stroke-width="30" fill="#FFFFFF" xlink:href="#path-3"></use>
+            <use id="Oval" stroke="#009688" mask="url(#mask-6)" stroke-width="30" fill="#FFFFFF" xlink:href="#path-5"></use>
+            <ellipse id="Oval" fill="#FFFFFF" cx="389.5" cy="377" rx="50.5" ry="49"></ellipse>
+            <ellipse id="Oval" fill="#FFFFFF" cx="79.5" cy="186" rx="50.5" ry="49"></ellipse>
+            <ellipse id="Oval" fill="#FFFFFF" cx="168.5" cy="377" rx="50.5" ry="49"></ellipse>
+            <g id="compwhile-symbol" transform="translate(14.000000, 66.000000)" fill="#FFFFFF">
+                <g id="Group">
+                    <polygon id="Combined-Shape" points="250.646808 0 380 262.890864 345.834074 274.297649 328.585808 237.29001 203.902187 300 183.516095 271.110229 312.618887 204.992258 235.937756 47.7898216 114.837987 109.338443 94 79.4785879"></polygon>
+                    <use id="Oval" stroke="#009688" mask="url(#mask-8)" stroke-width="30" xlink:href="#path-7"></use>
+                    <use id="Oval" stroke="#009688" mask="url(#mask-10)" stroke-width="30" xlink:href="#path-9"></use>
+                    <use id="Oval" stroke="#009688" mask="url(#mask-12)" stroke-width="30" xlink:href="#path-11"></use>
+                    <ellipse id="Oval" cx="375.5" cy="311" rx="50.5" ry="49"></ellipse>
+                    <ellipse id="Oval" cx="65.5" cy="120" rx="50.5" ry="49"></ellipse>
+                    <ellipse id="Oval" cx="154.5" cy="311" rx="50.5" ry="49"></ellipse>
+                </g>
+            </g>
+        </g>
+        <text id="compwhile" font-family="DINAlternate-Bold, DIN Alternate" font-size="500" font-weight="bold" fill="#009688">
+            <tspan x="530" y="469">compwhile</tspan>
+        </text>
+    </g>
+</svg>
