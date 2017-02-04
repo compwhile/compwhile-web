@@ -1,8 +1,8 @@
 import React from 'react';
-import Hero from './components/hero';
-import Marketing from './components/marketing';
-import Navigation from './components/navigation';
-import Footer from './components/footer';
+import Hero from './../hero';
+import Marketing from './../marketing';
+import Navigation from './../navigation';
+import Footer from './../footer';
 import { Grid, Row, Col } from 'react-bootstrap';
 import injectTapEventPlugin from 'react-tap-event-plugin';
 
