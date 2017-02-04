@@ -20,12 +20,12 @@ class Hero extends Component {
             <div className="main-buttons">
               <Button
                 href="#"
-                bsStyle="primary">
+                bsStyle="warning">
                 Get Started
               </Button>
               <Button
                 href="http://compwhile.readthedocs.io/en/latest/README/"
-                bsStyle="primary">
+                bsStyle="warning">
                 DOCS
               </Button>
               <Button
