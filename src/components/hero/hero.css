@@ -1,6 +1,6 @@
 .hero {
   min-height: 250px;
-  background: #088278;
+  background: url('./banner.svg');
   padding-top: 50px;
   color: #E9E9E9;
   font-weight: 400;
