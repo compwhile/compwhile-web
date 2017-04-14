@@ -1,15 +1,32 @@
 .hero {
-  min-height: 250px;
-  background: url('./banner.svg');
-  padding-top: 50px;
+  background: url('./banner.mobile.svg');
+  background-repeat: no-repeat;
   color: #E9E9E9;
   font-weight: 400;
+  opacity: 1;
+}
+
+/* Tablets: */
+@media only screen and (min-width: 600px) {
+  .hero {
+    min-height: 250px;
+    background: url('./banner.tablet.svg');
+    padding-top: 50px;
+  }
+}
+
+/* Screens */
+@media only screen and (min-width: 768px) {
+  .hero {
+    padding-top: 0;
+  }
 }
 
 .hero .text {
   font-family: 'Comfortaa', cursive;
   font-size: 64px;
   text-align: center;
+  padding-top: 0.5em;
 }
 
 .hero .minitext {
@@ -17,6 +34,7 @@
   padding-top: 1em;
   font-size: 16px;
   text-align: center;
+  padding: 1em;
 }
 
 .hero .strong {

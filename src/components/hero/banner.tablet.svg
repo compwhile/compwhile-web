@@ -1,0 +1,64 @@
+
+<svg width="1024px" height="270px" viewBox="-556 -267 1024 270" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="1024" height="270"></rect>
+        <ellipse id="path-3" cx="439.092971" cy="364.860372" rx="75.9070295" ry="74.1396277"></ellipse>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="151.814059" height="148.279255" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+        <ellipse id="path-5" cx="181.00907" cy="363.692819" rx="75.9070295" ry="74.1396277"></ellipse>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="151.814059" height="148.279255" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+        <ellipse id="path-7" cx="75.9070295" cy="140.69016" rx="75.9070295" ry="74.1396277"></ellipse>
+        <mask id="mask-8" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="151.814059" height="148.279255" fill="white">
+            <use xlink:href="#path-7"></use>
+        </mask>
+        <ellipse id="path-9" cx="177.342404" cy="147.107713" rx="30.6575964" ry="29.8922872"></ellipse>
+        <mask id="mask-10" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="61.3151927" height="59.7845745" fill="white">
+            <use xlink:href="#path-9"></use>
+        </mask>
+        <ellipse id="path-11" cx="73.106576" cy="146.636968" rx="30.6575964" ry="29.8922872"></ellipse>
+        <mask id="mask-12" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="61.3151927" height="59.7845745" fill="white">
+            <use xlink:href="#path-11"></use>
+        </mask>
+        <ellipse id="path-13" cx="30.6575964" cy="56.724734" rx="30.6575964" ry="29.8922872"></ellipse>
+        <mask id="mask-14" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="61.3151927" height="59.7845745" fill="white">
+            <use xlink:href="#path-13"></use>
+        </mask>
+    </defs>
+    <g id="banner.tablet" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-556.000000, -267.000000)">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Rectangle" fill="#088278" xlink:href="#path-1"></use>
+        <g id="compwhile-symbol" opacity="0.262171649" mask="url(#mask-2)">
+            <g transform="translate(-29.000000, -70.000000)" id="Group">
+                <g>
+                    <polygon id="Combined-Shape" fill="#FFFFFF" points="292.705456 0 443.764172 306.939067 403.865189 320.257095 383.722656 277.048709 238.117067 350.265957 214.310179 316.535613 365.076478 239.339365 275.528218 55.7971587 134.107853 127.658448 109.773243 92.7954789"></polygon>
+                    <use id="Oval" stroke="#009688" mask="url(#mask-4)" stroke-width="30" fill="#FFFFFF" xlink:href="#path-3"></use>
+                    <use id="Oval" stroke="#009688" mask="url(#mask-6)" stroke-width="30" fill="#FFFFFF" xlink:href="#path-5"></use>
+                    <use id="Oval" stroke="#009688" mask="url(#mask-8)" stroke-width="30" fill="#FFFFFF" xlink:href="#path-7"></use>
+                    <ellipse id="Oval" fill="#FFFFFF" cx="438.50907" cy="363.109043" rx="58.9739229" ry="57.2101064"></ellipse>
+                    <ellipse id="Oval" fill="#FFFFFF" cx="76.4909297" cy="140.106383" rx="58.9739229" ry="57.2101064"></ellipse>
+                    <ellipse id="Oval" fill="#FFFFFF" cx="180.42517" cy="363.109043" rx="58.9739229" ry="57.2101064"></ellipse>
+                </g>
+            </g>
+        </g>
+        <g id="compwhile-symbol" opacity="0.924592391" mask="url(#mask-2)">
+            <g transform="translate(746.000000, 47.000000)" id="Group">
+                <g>
+                    <polygon id="Combined-Shape" fill="#FFFFFF" points="118.218903 0 179.229025 123.754476 163.114484 129.124159 154.979247 111.70301 96.1715533 141.223404 86.5563439 127.623698 147.448364 96.4990149 111.2813 22.4968043 54.1639484 51.4704904 44.3356009 37.4141225"></polygon>
+                    <use id="Oval" stroke="#009688" mask="url(#mask-10)" stroke-width="30" fill="#FFFFFF" xlink:href="#path-9"></use>
+                    <use id="Oval" stroke="#009688" mask="url(#mask-12)" stroke-width="30" fill="#FFFFFF" xlink:href="#path-11"></use>
+                    <use id="Oval" stroke="#009688" mask="url(#mask-14)" stroke-width="30" fill="#FFFFFF" xlink:href="#path-13"></use>
+                    <ellipse id="Oval" fill="#FFFFFF" cx="177.106576" cy="146.401596" rx="23.8185941" ry="23.0664894"></ellipse>
+                    <ellipse id="Oval" fill="#FFFFFF" cx="30.893424" cy="56.4893617" rx="23.8185941" ry="23.0664894"></ellipse>
+                    <ellipse id="Oval" fill="#FFFFFF" cx="72.8707483" cy="146.401596" rx="23.8185941" ry="23.0664894"></ellipse>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
