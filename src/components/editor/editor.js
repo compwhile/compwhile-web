@@ -18,7 +18,7 @@ CodeMirror.defineSimpleMode("simplemode", {
      token: ["keyword", null, "variable-2"]},
     // Rules are matched in the order in which they appear, so there is
     // no ambiguity between this one and the one above
-    {regex: /(?:if|while|else|do|then|read|write)\b/,
+    {regex: /(?:if|while|else|do|then|read|write|hd|tl|cons)\b/,
      token: "keyword"},
     {regex: /true|false|null|undefined/, token: "atom"},
     {regex: /0x[a-f\d]+|[-+]?(?:\.\d+|\d+\.?\d*)(?:e[-+]?\d+)?/i,
@@ -70,9 +70,9 @@ class Editor extends Component {
       smartIndent: true,
       tabSize: 2,
       indentWithTabs: false,
-      value: `read X
-  Y := X
-write Y`
+      value: `read x
+  y := cons (hd(x) tl(x))
+write y`
     });
   }
 }
